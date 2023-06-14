@@ -3,8 +3,8 @@ In this notebook, we will see how to fine-tune one of the hugging-face Transform
 Reference : https://huggingface.co/Helsinki-NLP/opus-mt-en-sw
 <h1>Steps</h1> 
 <li>
-1. Download the dataset and the notebook to local computer
-2. Create an account on HuggingFace.com from the above instructions( how_to_create_an_account_on_huggingaface.pdf)
+<ul>1. Download the dataset and the notebook to local computer</ul>
+<ul>2. Create an account on HuggingFace.com from the above instructions( how_to_create_an_account_on_huggingaface.pdf)</ul>
 3. Upload the notebook to your Google Colab dev environment
 4. Switch runtime to GPU and run the cell
 </li>
