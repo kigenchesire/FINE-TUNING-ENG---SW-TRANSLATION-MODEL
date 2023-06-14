@@ -6,5 +6,5 @@ Reference : https://huggingface.co/Helsinki-NLP/opus-mt-en-sw
 <ul>1. Download the dataset and the notebook to local computer</ul>
 <ul>2. Create an account on HuggingFace.com from the above instructions( how_to_create_an_account_on_huggingaface.pdf)</ul>
 <ul>3. Upload the notebook to your Google Colab dev environment</li>
-4. Switch runtime to GPU and run the cell
+<ul>4. Switch runtime to GPU and run the cell </ul>
 </li>
